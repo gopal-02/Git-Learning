@@ -1,1 +1,1 @@
-Utility functins of version 1.
+Utility functins of version 2.
