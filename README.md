@@ -11,4 +11,5 @@ $ git branch --delete <branch name> - It deleates the given branch **NOTE** -(bu
 $ git reset --hard <commit id> - It deletes all the  commits after it  and brings head to given commit id and remove the changes from local.<br> 
 $ git reset --soft <commit id> - It deletes all the  commits after it  and brings head to given commit id and bring back changes to staged area(does not remove changes from local).<br>
 $ git remote show origin  - shows that if you are connected to a remote repository or not.<br>
+$ git commit -m "<commit message>" - It commits the staged area changes to the repository and generates a commit id.<br>
  
