@@ -13,3 +13,5 @@ $ git reset --soft <commit id> - It deletes all the  commits after it  and bring
 $ git remote show origin  - shows that if you are connected to a remote repository or not.<br>
 $ git commit -m "<commit message>" - It commits the staged area changes to the repository and generates a commit id.<br>
  
+## Fast forward merge 
+In this no commit is created only the pointer shifts to the current commit and the branch get updated with the latest commit branch code.<br>
